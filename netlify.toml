@@ -1,0 +1,4 @@
+[build]
+
+  publis = "dist"
+  command = "npm run build"
